@@ -6,12 +6,12 @@ from pages.ai_tutor import show_ai_tutor
 from pages.profile import show_profile
 
 st.set_page_config(
-    page_title="GET STRATE",
-    page_icon="🚀",
+    page_title="LENTERA BANGSA",
+    page_icon="📚",
     layout="wide"
 )
 
-st.sidebar.title("GET STRATE")
+st.sidebar.title("📚 LENTERA BANGSA")
 
 menu = st.sidebar.radio(
     "Navigation",

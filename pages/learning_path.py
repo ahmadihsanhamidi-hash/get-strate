@@ -4,12 +4,12 @@ def show_learning_path():
 
     st.title("Learning Path")
 
-    st.success("✔ Vector Basics")
+    st.success("✔ Tes Diagnostik Awal")
 
-    st.success("✔ Kinematics")
+    st.success("✔ Belajar Kearifan Lokal")
 
-    st.warning("⏳ Newton Laws")
+    st.warning("⏳  Dojo Berpikir Kritis")
 
-    st.error("🔒 Energy")
+    st.error("🔒 Pusat Pengetahuan Nusantara")
 
-    st.error("🔒 Momentum")
+    st.error("🔒 Lencana Digital & Sertifikasi")
